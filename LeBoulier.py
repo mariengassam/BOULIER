@@ -508,9 +508,9 @@ creation_colonne(1000)
 ######################
 #Placement des widget
 canvas.grid()
-bouton1.place(x = 100,y = 330) 
+bouton1.place(x = 20,y = 330) 
 bouton2.place(x = 100,y = 390) 
-bouton3.place(x = 300,y = 330)
+bouton3.place(x = 200,y = 330)
 bouton4.place(x = 700,y = 330) 
 bouton5.place(x = 700,y = 390) 
 bouton6.place(x = 700,y = 360) 
@@ -518,7 +518,6 @@ bouton7.place(x = 900,y = 330)
 bouton8.place(x = 900,y = 390)
 operande1.grid()
 operande2.grid()
-
 
 ######################
 #Gestion des evenements
